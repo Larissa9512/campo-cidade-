@@ -58,14 +58,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como evitar que ocorra a extinção de animais nativos?",
+        enunciado: "Como o êxodo rural afeta a relação entre campo e cidade?",
         alternativas: [
             {
-                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade ajudaria a melhorar esse cenário?",
+                texto: "O êxodo rural resulta na diminuição da população residente no campo, o que pode afetar o desenvolvimento local e a manutenção de serviços essenciais",
                 afirmacao: "Sim, pois preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução "
             },
             {
-                texto: "Evitar intervenções de espécies não nativas neste ambiente pode ser uma alternativa?",
+                texto: " A migração das pessoas do campo para as cidades pode causar escassez de mão de obra na agricultura, impactando a produção de alimentos",
                 afirmacao: "Sim, animais de um determinado local não estão preparados para lidar com predadores de outras áreas, levando a um extermínio da espécie local"
             }
         ]
