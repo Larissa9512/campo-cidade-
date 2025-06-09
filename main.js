@@ -19,28 +19,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: " Quais as principais atividades econômicas do campo e da cidade?:",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
-            },
+                texto: "agricultura, pecuaria, extrativismo",
+                afirmacao: " enquanto no campo predominam atividades ligadas a agricultura e a pecuaria nas cidades destacam o comercio os serviços e a industria como principais fontes de economia"
+        
             {
-                texto: "Falta de Incentivos e Legislação",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "Como a tecnologia influencia o campo e a cidade?",
+                afirmacao: "a tecnologia tanto o campo quanto a cidade trazendo avanços na producao agricula e melhorando os seviços a comunidade e a qualidade de vida nas areas urbanas."
             }
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "Quais os principais desafios enfrentados pelo campo e pela cidade?",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
-                afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
+                texto: "transito e mobilidade urbana desigualdade social",
+                afirmacao: "o campo enfrenta desafios como exodo rural e a falta de infraestrutura enquanto a cidade lida como problemas como o transito a poluicao e a desigualdade social."
             },
             {
-                texto: "desigualdades na distribuição de recursos",
-                afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
+                texto: "poluicao desemprego ",
+                afirmacao: "dificil insençao no mercado de trabalho especialmente jovens, do ar sonoro visual e dos rios urbanos."
             }
         ]
     },
