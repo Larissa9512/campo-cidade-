@@ -109,4 +109,4 @@ function mostraResultado(){
     caixaAlternativas.innerHTML = "";
 }
 
-mostraPergunta(); 
+mostraPergunta();
